@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'TLDropDownMenu' target in the 'TLDropDownMenu' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
